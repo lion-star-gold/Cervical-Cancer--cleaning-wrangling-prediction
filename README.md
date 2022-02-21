@@ -9,3 +9,7 @@ In this project I use pandas, numpy, matplotlib.pyplot, and sklearn to:
 * splitting data to train + test 
 * performing KNN 
 * improving KNN 
+
+I am interested in performing more predictive methods on more health related data, and will seek out datasets from the UCI ML site and Kaggle. 
+
+If you liked this little project, please connect with me on LinkedIn! https://www.linkedin.com/in/chloe-dickinson-mcr-/
